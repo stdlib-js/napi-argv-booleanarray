@@ -49,6 +49,7 @@
     "@stdlib/array-bool": "^0.1.2",
     "@stdlib/array-filled": "^0.3.1",
     "@stdlib/array-typed": "^0.3.2",
+    "@stdlib/assert-is-booleanarray": "^0.0.3",
     "@stdlib/assert-is-browser": "^0.2.3",
     "@stdlib/strided-base-reinterpret-boolean": "^0.0.3",
     "@stdlib/utils-try-require": "^0.2.3",
